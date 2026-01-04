@@ -80,4 +80,3 @@ Pour toute question :
 ---
 
 **💡 Conseil** : Ouvrez toujours `wayback_snapshots/index.html` pour naviguer dans vos archives !
-```
